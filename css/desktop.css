@@ -12,5 +12,8 @@
 
 .plans-container--slider{
   justify-content: center;
-}
 
+}
+::-webkit-scrollbar {
+    display: none;
+}
