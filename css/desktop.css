@@ -12,8 +12,10 @@
 
 .plans-container--slider{
   justify-content: center;
-
 }
-::-webkit-scrollbar {
+.main-tables-container::-webkit-scrollbar {
     display: none;
+}
+.plans-container--slider::-webkit-scrollbar{
+  display: none;
 }

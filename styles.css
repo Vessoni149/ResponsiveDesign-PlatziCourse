@@ -547,17 +547,19 @@ list-style: none;
   color: var(--white);
 }
 
-@media screen and (min-width: 768px){
-  .arrow-left{
-    display: none;
-  }
-  .arrow-right{
-    display: none;
-  }
+@media screen and (min-width: 629px){
   .table-arrow-right{
     display: none;
   }
   .table-arrow-left{
+    display: none;
+  }
+}
+@media screen and (min-width: 750px){
+  .arrow-left{
+    display: none;
+  }
+  .arrow-right{
     display: none;
   }
 }
