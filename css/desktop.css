@@ -13,9 +13,4 @@
 .plans-container--slider{
   justify-content: center;
 }
-.main-tables-container::-webkit-scrollbar {
-    display: none;
-}
-.plans-container--slider::-webkit-scrollbar{
-  display: none;
-}
+
