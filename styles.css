@@ -547,10 +547,10 @@ list-style: none;
   color: var(--white);
 }
 .main-tables-container::-webkit-scrollbar {
-  display: none;
+  width: 0;
 }
 .plans-container--slider::-webkit-scrollbar{
-display: none;
+  width: 0;
 }
 @media screen and (min-width: 629px){
   .table-arrow-right{
